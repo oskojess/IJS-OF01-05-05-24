@@ -17,3 +17,5 @@ const calcularValorTotalProjeto = (funcionalidades, valorHora) => {
 }
 
 exports.calcularValorTotalProjeto = calcularValorTotalProjeto;
+
+//a funcionalidade tem que ser até 50, tem que ser pacote basico 
