@@ -12,7 +12,7 @@ const TAXAS_CONTRATUAIS_POR_PACOTE = {
   pacote_intermediario: 1.2, // 12%
   pacote_premium: 1.5 // 15%
 }
-
+ 
 const HORAS_POR_FUNCIONALIDADE = {
   setup: 8,
   formulario: 16,
